@@ -19,7 +19,7 @@ _skinks_model.R_: This script performs biophysical modeling for Lampropholis s
 
 ### Data 
 
-_Lampro_data.zip_: Data generated through biophysical modeling for Lampropholis skinks in Australia. Each dataset contains physiological, behavioral, and stress information during activity and total periods across 11,005 coordinates in Australia.
+_Lampro_data.zip_: Data generated through biophysical modeling for Lampropholis skinks in Australia. Each dataset contains physiological, behavioral, and stress information during activity and total periods across 11,005 coordinates in Australia. This data is storaged at [Monash University Bridges Repository](https://doi.org/10.26180/28687073.v2).
 
 _aus_coord_0.25_.csv: Coordinates for biophysical modeling, generated in QGIS at 0.25-degree resolution across Australia.
 
