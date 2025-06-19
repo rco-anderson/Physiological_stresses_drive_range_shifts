@@ -1,6 +1,6 @@
 # Physiological_stresses_drive_range_shifts
 
-R code and data associated with the paper "_Physiological Stresses Drive Range Shifts in Ectotherms_" by Anderson & Chapple, accepted in Journal of Biogeography.
+R code and data associated with the paper Anderson, R.O., & Chapple, D.G. (2025). Physiological Stresses Drive Range Shifts in Ectotherms. Journal of Biogeography. [https://doi.org/10.1111/jbi.70001]
 
 ## Abstract
 
